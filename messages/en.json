@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "Next.js App",
+    "welcome": "Welcome to my clean Next.js application with a dark background."
+  },
+  "LanguageSwitcher": {
+    "chooseLanguage": "Choose Language:",
+    "english": "English",
+    "bulgarian": "Bulgarian"
+  }
+}

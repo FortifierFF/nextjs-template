@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "Next.js Приложение",
+    "welcome": "Добре дошли в моето чисто Next.js приложение с тъмен фон."
+  },
+  "LanguageSwitcher": {
+    "chooseLanguage": "Изберете език:",
+    "english": "English",
+    "bulgarian": "Български"
+  }
+}
